@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/glitch256bytes" target="blank"><img src="https://img.shields.io/twitter/follow/glitch256bytes?logo=twitter&style=for-the-badge" alt="glitch256bytes" /></a> </p>
 
-- 🔭 I’m currently working on **Authentication Apps**
+- 🔭 I’m currently working on **CI/CD & Containerization**
 
-- 🌱 I’m currently learning **Javascript and Solidity**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://github.com/a256bytesGlitch/](https://github.com/a256bytesGlitch/)
 
-- 💬 Ask me about **nodejs**
+- 💬 Ask me about **devops**
 
 - 📫 How to reach me **lanniox@gmail.com**
 
