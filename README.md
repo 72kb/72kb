@@ -1,6 +1,6 @@
 [![MasterHead](https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/53a006b3-6570-4602-b557-dd194378bf45/moments-of-happiness-dragon.gif)]()
-<h1 align="center">Hi 👋, I'm a 256bytes glitch, (my real name is Praise Olugbemi)</h1>
-<h3 align="center">A passionate backend developer from Nigeria</h3>
+<h1 align="center">Hi 👋, I'm a 256bytes glitch xD</h1>
+<h3 align="center">A passionate devops engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.kym-cdn.com/photos/images/newsfeed/001/812/951/6ad.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a256bytesglitch&label=Profile%20views&color=0e75b6&style=flat" alt="a256bytesglitch" /> </p>
