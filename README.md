@@ -1,3 +1,6 @@
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Praise+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Hyun Welcome to my Profile! animated typed out">
+<img  src="assests/borderseperator.gif">
+
 # 💫 About Me:
 👨‍💻 My name is Praise Olugbemi.<br>💬 I am a Cloud/DevOps Engineer.<br>🌱 I am passionate about learning new technologies, finding and providing solutions to technical problems.<br>📝 I am interested in Open Source.<br>🤝 I’m looking to participate in open source projects, hackathons, internships, and entry-level opportunities.<br>📫 You can reach out to me on praiseayomiposi@gmail.com<br>⚡ A fun fact about me is I can't swim to save my life.<br>
 
