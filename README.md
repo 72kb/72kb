@@ -2,7 +2,7 @@
 <img  src="assests/borderseperator.gif">
 
 # 💫 About Me:
-👨‍💻 My name is Praise Olugbemi.<br>💬 I am a Cloud/DevOps Engineer.<br>🌱 I am passionate about learning new technologies, finding and providing solutions to technical problems.<br>📝 I am interested in Open Source.<br>🤝 I’m looking to participate in open source projects, hackathons, internships, and entry-level opportunities.<br>📫 You can reach out to me on praiseayomiposi@gmail.com<br>⚡ A fun fact about me is I can't swim to save my life.<br>
+👨‍💻 My name is Praise Olugbemi.<br>💬 I am a Cloud/DevOps Engineer.<br><br>💬 I am also well versed in smart contracts creation with solidity and web3.<br>🌱 I am passionate about learning new technologies, finding and providing solutions to technical problems.<br>📝 I am interested in Blockchain, Web3 and Open Source.<br>🤝 I’m looking to participate in open source projects, hackathons, internships, and entry-level opportunities.<br>📫 You can reach out to me on praiseayomiposi@gmail.com<br>⚡ A fun fact about me is I can't swim to save my life.<br>
 
 
 ## 🌐 Socials:
